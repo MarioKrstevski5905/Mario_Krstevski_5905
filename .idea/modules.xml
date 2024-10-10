@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lecture3/Lecture3.iml" filepath="$PROJECT_DIR$/Lecture3/Lecture3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Mario_Krstevski_5905_10_10.iml" filepath="$PROJECT_DIR$/.idea/Mario_Krstevski_5905_10_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture3/The_Endless_Loop_of_Doom/The_Endless_Loop_of_Doom.iml" filepath="$PROJECT_DIR$/Lecture3/The_Endless_Loop_of_Doom/The_Endless_Loop_of_Doom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture3/The_Matrix_Puzzle/The_Matrix_Puzzle.iml" filepath="$PROJECT_DIR$/Lecture3/The_Matrix_Puzzle/The_Matrix_Puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture3/The_vault_of_secrets/The_vault_of_secrets.iml" filepath="$PROJECT_DIR$/Lecture3/The_vault_of_secrets/The_vault_of_secrets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture3/Treasure_Map/Treasure_Map.iml" filepath="$PROJECT_DIR$/Lecture3/Treasure_Map/Treasure_Map.iml" />
+    </modules>
+  </component>
+</project>
