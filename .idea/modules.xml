@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lecture 4/CarShowRoom/CarShowRoom.iml" filepath="$PROJECT_DIR$/Lecture 4/CarShowRoom/CarShowRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 4/Lecture 4.iml" filepath="$PROJECT_DIR$/Lecture 4/Lecture 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/Lecture3.iml" filepath="$PROJECT_DIR$/Lecture3/Lecture3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Mario_Krstevski_5905_10_10.iml" filepath="$PROJECT_DIR$/.idea/Mario_Krstevski_5905_10_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 4/TheDungeonExplorer/TheDungeonExplorer.iml" filepath="$PROJECT_DIR$/Lecture 4/TheDungeonExplorer/TheDungeonExplorer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 4/TheFleetManager/TheFleetManager.iml" filepath="$PROJECT_DIR$/Lecture 4/TheFleetManager/TheFleetManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture 4/TheMagicNumberBox/TheMagicNumberBox.iml" filepath="$PROJECT_DIR$/Lecture 4/TheMagicNumberBox/TheMagicNumberBox.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/The_Endless_Loop_of_Doom/The_Endless_Loop_of_Doom.iml" filepath="$PROJECT_DIR$/Lecture3/The_Endless_Loop_of_Doom/The_Endless_Loop_of_Doom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/The_Matrix_Puzzle/The_Matrix_Puzzle.iml" filepath="$PROJECT_DIR$/Lecture3/The_Matrix_Puzzle/The_Matrix_Puzzle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/The_vault_of_secrets/The_vault_of_secrets.iml" filepath="$PROJECT_DIR$/Lecture3/The_vault_of_secrets/The_vault_of_secrets.iml" />
