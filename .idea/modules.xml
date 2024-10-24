@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lecture 4/CarShowRoom/CarShowRoom.iml" filepath="$PROJECT_DIR$/Lecture 4/CarShowRoom/CarShowRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture5/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Lecture5/Exercise2/Exercise2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 4/Lecture 4.iml" filepath="$PROJECT_DIR$/Lecture 4/Lecture 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/Lecture3.iml" filepath="$PROJECT_DIR$/Lecture3/Lecture3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture5/Lecture5.iml" filepath="$PROJECT_DIR$/Lecture5/Lecture5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Mario_Krstevski_5905_10_10.iml" filepath="$PROJECT_DIR$/.idea/Mario_Krstevski_5905_10_10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 4/TheDungeonExplorer/TheDungeonExplorer.iml" filepath="$PROJECT_DIR$/Lecture 4/TheDungeonExplorer/TheDungeonExplorer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 4/TheFleetManager/TheFleetManager.iml" filepath="$PROJECT_DIR$/Lecture 4/TheFleetManager/TheFleetManager.iml" />
@@ -13,6 +15,8 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture3/The_Matrix_Puzzle/The_Matrix_Puzzle.iml" filepath="$PROJECT_DIR$/Lecture3/The_Matrix_Puzzle/The_Matrix_Puzzle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/The_vault_of_secrets/The_vault_of_secrets.iml" filepath="$PROJECT_DIR$/Lecture3/The_vault_of_secrets/The_vault_of_secrets.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/Treasure_Map/Treasure_Map.iml" filepath="$PROJECT_DIR$/Lecture3/Treasure_Map/Treasure_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture5/UtilityManagment/UtilityManagment.iml" filepath="$PROJECT_DIR$/Lecture5/UtilityManagment/UtilityManagment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture5/Exercise2/Vehicle/Vehicle.iml" filepath="$PROJECT_DIR$/Lecture5/Exercise2/Vehicle/Vehicle.iml" />
     </modules>
   </component>
 </project>
