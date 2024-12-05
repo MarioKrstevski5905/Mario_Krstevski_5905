@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lecture10/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/Lecture10/Assignment1/Assignment1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 4/CarShowRoom/CarShowRoom.iml" filepath="$PROJECT_DIR$/Lecture 4/CarShowRoom/CarShowRoom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture7/ComprehensiveUniversityManagementSystem/ComprehensiveUniversityManagementSystem.iml" filepath="$PROJECT_DIR$/Lecture7/ComprehensiveUniversityManagementSystem/ComprehensiveUniversityManagementSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture8/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Lecture8/Exercise1/Exercise1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture10/Exercise1x/Exercise1x.iml" filepath="$PROJECT_DIR$/Lecture10/Exercise1x/Exercise1x.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Lecture5/Exercise2/Exercise2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture10/Exercise2x/Exercise2x.iml" filepath="$PROJECT_DIR$/Lecture10/Exercise2x/Exercise2x.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidTermExam202411/Exercisenum2/Exercisenum2.iml" filepath="$PROJECT_DIR$/MidTermExam202411/Exercisenum2/Exercisenum2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture7/GalacticTransportationHub/GalacticTransportationHub.iml" filepath="$PROJECT_DIR$/Lecture7/GalacticTransportationHub/GalacticTransportationHub.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 4/Lecture 4.iml" filepath="$PROJECT_DIR$/Lecture 4/Lecture 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture10/Lecture10.iml" filepath="$PROJECT_DIR$/Lecture10/Lecture10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/Lecture3.iml" filepath="$PROJECT_DIR$/Lecture3/Lecture3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Lecture5.iml" filepath="$PROJECT_DIR$/Lecture5/Lecture5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture7/Lecture7.iml" filepath="$PROJECT_DIR$/Lecture7/Lecture7.iml" />
