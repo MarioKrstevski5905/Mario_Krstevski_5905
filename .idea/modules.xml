@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lecture10/Assignment1/Assignment1.iml" filepath="$PROJECT_DIR$/Lecture10/Assignment1/Assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture11/Assignment2/Assignment2.iml" filepath="$PROJECT_DIR$/Lecture11/Assignment2/Assignment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture10/Assignment3/Assignment3.iml" filepath="$PROJECT_DIR$/Lecture10/Assignment3/Assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture11/Assignment33/Assignment33.iml" filepath="$PROJECT_DIR$/Lecture11/Assignment33/Assignment33.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 4/CarShowRoom/CarShowRoom.iml" filepath="$PROJECT_DIR$/Lecture 4/CarShowRoom/CarShowRoom.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture7/ComprehensiveUniversityManagementSystem/ComprehensiveUniversityManagementSystem.iml" filepath="$PROJECT_DIR$/Lecture7/ComprehensiveUniversityManagementSystem/ComprehensiveUniversityManagementSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture8/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Lecture8/Exercise1/Exercise1.iml" />
@@ -13,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture7/GalacticTransportationHub/GalacticTransportationHub.iml" filepath="$PROJECT_DIR$/Lecture7/GalacticTransportationHub/GalacticTransportationHub.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture 4/Lecture 4.iml" filepath="$PROJECT_DIR$/Lecture 4/Lecture 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture10/Lecture10.iml" filepath="$PROJECT_DIR$/Lecture10/Lecture10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture11/Lecture11.iml" filepath="$PROJECT_DIR$/Lecture11/Lecture11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture3/Lecture3.iml" filepath="$PROJECT_DIR$/Lecture3/Lecture3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Lecture5.iml" filepath="$PROJECT_DIR$/Lecture5/Lecture5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture7/Lecture7.iml" filepath="$PROJECT_DIR$/Lecture7/Lecture7.iml" />
@@ -30,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lecture3/Treasure_Map/Treasure_Map.iml" filepath="$PROJECT_DIR$/Lecture3/Treasure_Map/Treasure_Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/UtilityManagment/UtilityManagment.iml" filepath="$PROJECT_DIR$/Lecture5/UtilityManagment/UtilityManagment.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Exercise2/Vehicle/Vehicle.iml" filepath="$PROJECT_DIR$/Lecture5/Exercise2/Vehicle/Vehicle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture11/lastassignment/lastassignment.iml" filepath="$PROJECT_DIR$/Lecture11/lastassignment/lastassignment.iml" />
     </modules>
   </component>
 </project>
